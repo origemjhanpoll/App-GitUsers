@@ -7,6 +7,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
+      title: 'Usuário GitHub',
       debugShowCheckedModeBanner: false,
       routerDelegate: Modular.routerDelegate,
       routeInformationParser: Modular.routeInformationParser,
