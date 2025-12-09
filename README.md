@@ -1,4 +1,4 @@
-# GitUsers
+# App GitUsers
 
 Este repositório contém o projeto "Petize Challenge", desenvolvido com Flutter. Siga as instruções abaixo para clonar, instalar dependências e rodar o projeto na sua máquina.
 
